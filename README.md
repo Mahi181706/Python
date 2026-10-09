@@ -1,3 +1,3 @@
 # Python
-Boyaa Mahidhar
+Boya Mahidhar
 PRN: 2126UDSM1109
